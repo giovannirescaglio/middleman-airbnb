@@ -1,0 +1,36 @@
+- name: Berlin
+  address: "Rudi-Dutschke-Straße 26, 10969 Berlin"
+  picture: "https://kitt.lewagon.com/placeholder/cities/berlin"
+  username: 'Sébastien Saunier'
+  github_nickname: 'ssaunier'
+- name: Paris
+  address: "16, villa Gaudelet 75011 Paris"
+  picture: "https://kitt.lewagon.com/placeholder/cities/paris"
+  username: 'Boris Paillard'
+  github_nickname: 'Papillard'
+- name: sydney
+  address: "Bondy beach 26, 10900 Sydney"
+  picture: "https://kitt.lewagon.com/placeholder/cities/random"
+  username: 'Giovanni Rescaglio'
+  github_nickname: 'Papillard'
+- name: Rome
+  address: "16, via di roma 13400 roma"
+  picture: "https://kitt.lewagon.com/placeholder/cities/random"
+  username: 'Boris Paillard'
+  github_nickname: 'Papillard'
+- name: Lisbonne
+  address: "20 rua de lisboa, 10969 Lisboa"
+  picture: "https://kitt.lewagon.com/placeholder/cities/random"
+  username: 'Boris Paillard'
+  github_nickname: 'Papillard'
+- name: Bruxelles
+  address: "16, villa Gaudelet 75011 Bruxelles"
+  picture: "https://kitt.lewagon.com/placeholder/cities/random"
+  username: 'Boris Paillard'
+  github_nickname: 'Papillard'
+
+
+
+
+
+
